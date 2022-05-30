@@ -1,3 +1,5 @@
+# AI-CSP:definition, Constraint propagation, Backtracking search, Local search, problem structure. CSPs represent a state with a set of variable/value pairs and represent the conditions for a solution by a set of constraints on the variables. Many important real-world problems can be described as CSPs 
+
 regions =  ['delhi', 'chennai', 'mumbai', 'kolkata']
 colors = ['red', 'green' , 'blue' , 'yellow']
 
